@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package pb.dummy;
+
+option go_package = "github.com/agustincaro/gRPC/proto";
+
+message Dummy {
+    uint32 id = 1;
+}

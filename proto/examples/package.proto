@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package my.package;
+
+message MessageFour {
+ int32 num = 1;
+}

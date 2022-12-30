@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/agustincaro/gRPC-client/internal/domain"
+	"github.com/agustincaro/gRPC/internal/domain"
 )
 
 var (

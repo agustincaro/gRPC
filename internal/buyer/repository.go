@@ -3,7 +3,7 @@ package buyer
 import (
 	"context"
 
-	"github.com/agustincaro/gRPC-client/internal/domain"
+	"github.com/agustincaro/gRPC/internal/domain"
 )
 
 type Repository interface {
