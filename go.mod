@@ -1,4 +1,4 @@
-module github.com/agustincaro/gRPC-client
+module github.com/agustincaro/gRPC
 
 go 1.17
 

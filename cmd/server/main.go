@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/agustincaro/gRPC-client/cmd/server/routes"
+	"github.com/agustincaro/gRPC/cmd/server/routes"
 	"github.com/gin-gonic/gin"
 )
 
