@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/agustincaro/gRPC-client/internal/buyer"
-	"github.com/agustincaro/gRPC-client/pkg/errs"
-	"github.com/agustincaro/gRPC-client/pkg/web"
+	"github.com/agustincaro/gRPC/internal/buyer"
+	"github.com/agustincaro/gRPC/pkg/errs"
+	"github.com/agustincaro/gRPC/pkg/web"
 	"github.com/gin-gonic/gin"
 )
 

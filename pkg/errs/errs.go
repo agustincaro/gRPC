@@ -1,7 +1,7 @@
 package errs
 
 import (
-	"github.com/agustincaro/gRPC-client/pkg/web"
+	"github.com/agustincaro/gRPC/pkg/web"
 	"github.com/gin-gonic/gin"
 )
 

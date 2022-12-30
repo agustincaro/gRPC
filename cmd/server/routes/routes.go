@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/agustincaro/gRPC-client/cmd/server/handler"
-	"github.com/agustincaro/gRPC-client/internal/buyer"
+	"github.com/agustincaro/gRPC/cmd/server/handler"
+	"github.com/agustincaro/gRPC/internal/buyer"
 	"github.com/gin-gonic/gin"
 )
 
